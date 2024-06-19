@@ -12,7 +12,8 @@ I am a postdoc researcher at the IGE - Université Grenoble Alpes (France). Prev
 - 🔭 I’m currently working on:
     - 🌎 [ODINN.jl](https://github.com/ODINN-SciML/ODINN.jl): Global glacier model using Universal Differential Equations for climate-glacier interactions. Integrating the Julia differential programming tools with the Open Global Glacier Model (OGGM) in Python.
     - ❄️ [Huginn.jl](https://github.com/ODINN-SciML/Huginn.jl): Fast and flexible glacier ice flow models in Julia. 
-    - 🔥 [Muninn.jl](https://github.com/ODINN-SciML/Muninn.jl): Machine learning-based glacier surface mass balance modelling.
+    - 🔥 [Muninn.jl](https://github.com/ODINN-SciML/Muninn.jl): Machine learning-based glacier surface mass balance modelling for ODINN.jl.
+    - 🏔️ [MassBalanceMachine](https://github.com/ODINN-SciML/MassBalanceMachine): Machine learning glacier surface mass balance modelling to assimilate all data sources. 
     - 🧊 IceStupas: Artificial glacier modelling (i.e. Ice Stupas), investigating low-cost solutions for farmers and local populations facing climate change-induced droughts.
     - 🇦🇶 Antarctic Ice Shelves: Modelling calving of Antarctic ice shelves using deep learning and remote sensing data. 
 - 🌱 I’m currently exploring new ways to mix differential equations and machine learning (i.e. Universal Differential Equations) for geoscientific models. 
