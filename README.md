@@ -18,5 +18,5 @@ I am a postdoc researcher at IGE - Université Grenoble Alpes (France). Previous
     - 🇦🇶 Antarctic Ice Shelves: Modelling calving of Antarctic ice shelves using deep learning and remote sensing data. 
 - 🌱 I’m currently exploring new ways to mix differential equations and machine learning (i.e. Universal Differential Equations) for geoscientific models. 
 - 👯 I’m looking to collaborate with people interested in Scientific/Physics-informed machine learning, or glacio-hydrological modelling.
-- 📫 How to reach me: shoot me an email at: jordi.bolibar@univ-grenoble-alpes.fr or jordi.bolibar@gmail.com.
+- 📫 How to reach me: shoot me an email at jordi.bolibar@univ-grenoble-alpes.fr.
 
