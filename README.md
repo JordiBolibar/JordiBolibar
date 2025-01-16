@@ -17,5 +17,5 @@ I am a Research Scientist working at CNRS,IGE (France). Previously I worked as a
     - 🇦🇶 Antarctic Ice Shelves: Modelling calving of Antarctic ice shelves using deep learning and remote sensing data. 
 - 🌱 I’m currently exploring new ways to mix differential equations and machine learning (i.e. Universal Differential Equations) for geoscientific models. 
 - 👯 I’m looking to collaborate with people interested in Scientific/Physics-informed machine learning, or glacio-hydrological modelling.
-- 📫 How to reach me: shoot me an email at jordi.bolibar@univ-grenoble-alpes.fr.
+- 📫 How to reach me: shoot me an email at jordi.bolibar (at) univ-grenoble-alpes.fr.
 
