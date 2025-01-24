@@ -19,6 +19,6 @@ I am a Research Scientist working at CNRS, IGE (France). Previously I worked as 
 - 👯 I’m looking to collaborate with people interested in Scientific/Physics-informed machine learning, or glacio-hydrological modelling.
 - 📫 How to reach me: shoot me an email at jordi.bolibar (at) univ-grenoble-alpes.fr.
 
-## Overview of the main packages I'm developing in the ODINN SciML ecosystem:
+### Overview of the main packages I'm developing in the ODINN SciML ecosystem:
 
 <img src="https://github.com/ODINN-SciML/.github/blob/main/ODINN_architecture.png" width="400">
