@@ -21,4 +21,4 @@ I am a Research Scientist working at CNRS, IGE (France). Previously I worked as 
 
 ### Overview of the main packages I'm developing in the ODINN SciML ecosystem:
 
-<img src="https://github.com/ODINN-SciML/.github/blob/main/ODINN_architecture.png" width="400">
+<img src="https://github.com/ODINN-SciML/.github/blob/main/ODINN_ecosystem_v4.png" width="400">
